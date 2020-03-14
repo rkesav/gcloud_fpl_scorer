@@ -1,0 +1,4 @@
+fpl
+aiohttp
+Flask==1.1.1
+asyncio
